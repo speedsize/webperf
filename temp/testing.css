@@ -1,0 +1,151 @@
+/**
+ *
+  * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-Thin.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-Thin.woff) format("woff");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-ThinItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-ThinItalic.woff) format("woff");
+    font-weight: 100;
+    font-style: italic;
+    
+    font-display: swap
+}
+
+@font-face {
+    font-family: "Metropolis Extra";
+    src: url(cdn.shopify.com/s/files/Metropolis-ExtraLight.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-ExtraLight.woff) format("woff");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "Metropolis Extra";
+    src: url(cdn.shopify.com/s/files/Metropolis-ExtraLightItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-ExtraLightItalic.woff) format("woff");
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-Light.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-Light.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-LightItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-LightItalic.woff) format("woff");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-Regular.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-Regular.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-RegularItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-RegularItalic.woff) format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-Medium.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-Medium.woff) format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-MediumItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-MediumItalic.woff) format("woff");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "Metropolis Semi";
+    src: url(cdn.shopify.com/s/files/Metropolis-SemiBold.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-SemiBold.woff) format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "Metropolis Semi";
+    src: url(cdn.shopify.com/s/files/Metropolis-SemiBoldItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-SemiBoldItalic.woff) format("woff");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-Bold.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-Bold.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-BoldItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-BoldItalic.woff) format("woff");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "Metropolis Extra";
+    src: url(cdn.shopify.com/s/files/Metropolis-ExtraBold.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-ExtraBold.woff) format("woff");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "Metropolis Extra";
+    src: url(cdn.shopify.com/s/files/Metropolis-ExtraBoldItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-ExtraBoldItalic.woff) format("woff");
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-Black.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-Black.woff) format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Metropolis;
+    src: url(cdn.shopify.com/s/files/Metropolis-BlackItalic.woff2) format("woff2"), url(cdn.shopify.com/s/files/Metropolis-BlackItalic.woff) format("woff");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap
+}
+
+/*# sourceMappingURL=/sm/f7bd720f4dcffc1c6257f76f18ee64e42eaed7063d944df3c581edfc79e2c639.map */
+</style>
